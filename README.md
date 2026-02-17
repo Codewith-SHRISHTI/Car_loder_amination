@@ -1,6 +1,6 @@
 🚗 Pure HTML & CSS Car Loader Animation
 
-<img width="1723" height="918" alt="image" src="https://github.com/user-attachments/assets/2c80cbb5-1eeb-46b3-b17b-faa94c13fad9" /> 
+[recording.webm](https://github.com/user-attachments/assets/2bc41ae6-b014-4a4b-bf4e-291938f5bd60)
 
 🔥 What Is This?
 
