@@ -42,6 +42,6 @@ Customize colors, speed, and size to fit your design!
 🚀 Ready to Use
 
 Simply clone or download this repo and use it as a standalone loader component in your website. Feel free to explore and tweak it for your UI needs!
-
+<img width="1723" height="918" alt="image" src="https://github.com/user-attachments/assets/2c80cbb5-1eeb-46b3-b17b-faa94c13fad9" />
 
 
